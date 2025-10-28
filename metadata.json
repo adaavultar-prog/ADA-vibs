@@ -1,0 +1,5 @@
+{
+  "name": "ADA VIBE",
+  "description": "A functional web application that replicates a music streaming service, featuring screens for welcome, login, home, search, library, and now playing. Built with React and Tailwind CSS for a modern and responsive user experience.",
+  "requestFramePermissions": []
+}
